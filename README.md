@@ -5,9 +5,9 @@
 <img width="200" alt="screen shot 2017-11-29 at 9 25 39 pm" src="https://user-images.githubusercontent.com/4134043/33410086-9743fe16-d54c-11e7-89a7-e27ade160aa4.png"><img width="201" alt="screen shot 2017-11-29 at 9 26 19 pm" src="https://user-images.githubusercontent.com/4134043/33410087-974f71d8-d54c-11e7-8e9c-74158bb827a6.png"><img width="202" alt="screen shot 2017-11-29 at 9 26 44 pm" src="https://user-images.githubusercontent.com/4134043/33410088-975b86d0-d54c-11e7-9450-d570a6fa6b18.png">
 
 * Shows a list of people and details.
-* Shows name, a heart icon, and an avatar image as a list
-* When clicking on an item, all information is displayed in detail with the ability favorite an item
-* A "Favorite" button is created on the detail page - this changes the drawable image from one to the other on the main list.
+  * Shows name, a heart icon, and an avatar image as a list
+  * When clicking on an item, all information is displayed in detail with the ability favorite an item
+  * A "Favorite" button is created on the detail page - this changes the drawable image from one to the other on the main list.
  
 
 ### Part II 
@@ -18,13 +18,13 @@ Created an Activity to be a fragment container, in which the app displays two di
 fragments, Fragment A and Fragment B.
  
 * Shows a list of users and their email addresses as a GET API Request to server in Fragment A
-Displays the information retrieved from the below endpoint http://jsonplaceholder.typicode.com/users
+  * Displays the information retrieved from the below endpoint http://jsonplaceholder.typicode.com/users
 * Fragment B displays a specific person’s detailed information, including their phone number, their website, and an image of their location on a map.
 * Fragment B replaces Fragment A in the container when a user is selected, leaving Fragment A in the back stack.
 * In Fragment B:
- o Selecting the user’s phone number, an implicit intent to call that number is launched.
- o Selecting the user’s website, an implicit intent to open the web browser to that URL is launched.
- o Google Static Maps API is used to fetch a maps image link with a latitude and longitude.
+  * Selecting the user’s phone number, an implicit intent to call that number is launched.
+  * Selecting the user’s website, an implicit intent to open the web browser to that URL is launched.
+  * Google Static Maps API is used to fetch a maps image link with a latitude and longitude.
 
 ### Prerequisites
  
