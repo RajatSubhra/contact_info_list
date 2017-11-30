@@ -2,6 +2,8 @@
 
 ### Part I 
 
+<img width="200" alt="screen shot 2017-11-29 at 9 25 39 pm" src="https://user-images.githubusercontent.com/4134043/33410086-9743fe16-d54c-11e7-89a7-e27ade160aa4.png"><img width="201" alt="screen shot 2017-11-29 at 9 26 19 pm" src="https://user-images.githubusercontent.com/4134043/33410087-974f71d8-d54c-11e7-8e9c-74158bb827a6.png"><img width="202" alt="screen shot 2017-11-29 at 9 26 44 pm" src="https://user-images.githubusercontent.com/4134043/33410088-975b86d0-d54c-11e7-9450-d570a6fa6b18.png">
+
 * Shows a list of people and details.
 * Shows name, a heart icon, and an avatar image as a list
 * When clicking on an item, all information is displayed in detail with the ability favorite an item
@@ -9,6 +11,8 @@
  
 
 ### Part II 
+
+<img width="200" alt="screen shot 2017-11-29 at 9 27 11 pm" src="https://user-images.githubusercontent.com/4134043/33410089-9786f572-d54c-11e7-92b9-e750c2cb2799.png"><img width="203" alt="screen shot 2017-11-29 at 9 27 27 pm" src="https://user-images.githubusercontent.com/4134043/33410090-97974404-d54c-11e7-94cc-34a5bd500a3f.png">
 
 Created an Activity to be a fragment container, in which the app displays two different
 fragments, Fragment A and Fragment B.
