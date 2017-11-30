@@ -21,6 +21,11 @@ Displays the information retrieved from the below endpoint http://jsonplaceholde
  o Selecting the user’s phone number, an implicit intent to call that number is launched.
  o Selecting the user’s website, an implicit intent to open the web browser to that URL is launched.
  o Google Static Maps API is used to fetch a maps image link with a latitude and longitude.
+
+### Prerequisites
+ 
+* Android API Level >v14
+* Android Build Tools >v25
  
 ## Implementation 
  
@@ -38,8 +43,3 @@ I used Daggar2 for Dependency injection, ButterKnife for viewBinding, used RxJav
 * **ButterKnife**
 * **Gson**
 * **Picasso**
- 
-### Prerequisites
- 
-* Android API Level >v14
-* Android Build Tools >v25
