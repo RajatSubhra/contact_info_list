@@ -47,3 +47,6 @@ I used Daggar2 for Dependency injection, ButterKnife for viewBinding, used RxJav
 * **ButterKnife**
 * **Gson**
 * **Picasso**
+
+## Full APP demo video link - 
+https://youtu.be/XQ1rUiEwvBE
