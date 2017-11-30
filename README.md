@@ -1,7 +1,8 @@
-
 # Full APP demo video link  
 https://youtu.be/XQ1rUiEwvBE
 
+# Download apk from 
+https://github.com/RajatSubhra/contact_info_list/raw/master/android-sample-fun.apk  
 
 # Description 
 
